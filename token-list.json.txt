@@ -1,0 +1,25 @@
+{
+  "name": "DEFI",
+  "logoURI": "https://obohe.com/i/2021/07/25/h7e62a.jpg",
+  "keywords": [
+      "Greenlifetoken",
+      "GRL",
+      "yield"
+    ],
+    "timestamp": "2021-07-25T11:05:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x76bf944640065031c466dee2806ea05a2e26986b",
+      "name": "Greenlifetoken",
+      "symbol": "GRL",
+      "decimals": 18,
+      "logoURI": "https://obohe.com/i/2021/07/25/h7e62a.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
