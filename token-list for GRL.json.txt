@@ -1,0 +1,25 @@
+{
+  "name": "GRL",
+  "logoURI": "https://obohe.com/i/2021/07/25/j4fsba.png",
+  "keywords": [
+      "GRL",
+      "GRL",
+      "yield"
+    ],
+    "timestamp": "2021-07-25T12:01:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x76bf944640065031c466dee2806ea05a2e26986b",
+      "name": "GRL",
+      "symbol": "GRL",
+      "decimals": 18,
+      "logoURI": "https://obohe.com/i/2021/07/25/j4fsba.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
